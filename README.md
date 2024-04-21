@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o piod 👋</h1>
+<h1 align="center">Olá! Eu sou o Piod 👋</h1>
 
 <h2 align="center">Sobre mim</h2>
 
