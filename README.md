@@ -1,35 +1,19 @@
-<h1 align="center">Olá! Eu sou o Piod 👋</h1>
+## Olá! Eu sou o Piod
 
-<h2 align="center">Sobre mim</h2>
+### Sobre mim
+- Desenvolvedor com foco em **Go** e **C**.
+- Conhcimentos em Java, JS/TS e Python.
+- Apaixonado por gatos!
 
-<p align="center">
-  <b>Sou desenvolvedor back-end, apaixonado por tecnologia e programação.</b>
-  <br/>
-  Aqui está um pouco sobre mim:
-</p>
+---
 
-<p align="center">
-  💻 Tenho experiência em desenvolvimento back-end com foco em Java, Kotlin, e Go. <br>
-  🌱 Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades. <br>
-  🎮 Nas horas vagas, gosto de jogar, ouvir música e assistir animes. <br>
-  🐱 Amo gatos!
-</p>
-
-<hr/>
-
-<h2 align="center">Stacks</h2>
-
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora" width="48" />
-  <img src="https://github.com/bwmarrin/discordgo/raw/master/docs/img/discordgo.svg" alt="DiscordGo" height="48" />
-  <img src="https://github.com/discord-jda/JDA/raw/assets/assets/readme/logo.png?raw=true" alt="JDA" height="48" />
-</p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" alt="Kyubey" height="100" />
+### Stacks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="32" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="32" />
+  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Golang" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" alt="Debian" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySql" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" />
 </p>
