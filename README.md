@@ -2,8 +2,8 @@
 
 ### Sobre mim
 - Desenvolvedor com foco em **Go** e **C**.
-- Conhcimentos em Java, JS/TS e Python.
-- Apaixonado por gatos!
+- Conhecimentos em Java, JS/TS e Python.
+- Amo gatos 🐈!
 
 ---
 
