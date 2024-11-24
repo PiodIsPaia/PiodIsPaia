@@ -11,7 +11,7 @@ OS: BigLinux
 Shell: bash 5.2.37 
 Pronouns: He/Him
 Location: Brasil, PE
-Frameworks: SpringBoot, Gin Gonic, Gorilla
+Frameworks: Gin Gonic, Gorilla, Express
 Languages: JavaScript, TypeScript, Go
 Learning: C/C++, Py, Docker, Kubernetes
 Favorite animal: Cats
