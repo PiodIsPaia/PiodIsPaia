@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/o2bW3iA.jpg" alt="Hut ao" width="290" /> 
+<img align="left" src="https://i.imgur.com/be8qriS.png" alt="Hut ao" width="290" /> 
 
 ```csharp
 piodispaia@github
