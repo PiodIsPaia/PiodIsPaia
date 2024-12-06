@@ -7,7 +7,7 @@
 ```csharp
 piodispaia@github
 -------------------------
-OS: BigLinux
+OS: EndeavourOS
 Shell: bash 5.2.37 
 Pronouns: He/Him
 Location: Brasil, PE
