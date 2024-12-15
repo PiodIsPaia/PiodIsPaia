@@ -2,19 +2,19 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.imgur.com/be8qriS.png" alt="Hut ao" width="290" /> 
+<img align="left" src="https://i.pinimg.com/736x/f3/01/cb/f301cbd2a7681536675e04d3a211462f.jpg" alt="Hut ao" width="290" /> 
 
 ```csharp
 piodispaia@github
 -------------------------
-OS: EndeavourOS
+OS: fedora
 Shell: bash 5.2.37 
-Pronouns: He/Him
-Location: Brasil, PE
-Frameworks: Gin Gonic, Gorilla, Express
-Languages: JavaScript/TypeScript, Go
+Pronouns: he/him
+Location: brasil, PE
+Frameworks: gin gonic, gorilla, express
+Languages: JS/TS, Go
 Learning: C/C++, Py, Docker, Kubernetes
-Favorite animal: Cats
+Favorite animal: cats
 Discord: ppiod
 ```
 <p align="left">
